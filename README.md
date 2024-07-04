@@ -1,19 +1,18 @@
-# Инструкция:
+# Instructions:
 
-## Перед использованием:
-Добавьте в папку файлы settings.json и client_secret.json.
+## Before Use:
+Add the files `settings.json` and `client_secret.json` to the folder.
 
-**settings.json со структурой:** `{ "API_KEY": "ВАМ API KEY ДЛЯ OPENAI (спросите GPT)"}`
+**`settings.json` structure:** `{ "API_KEY": "YOUR API KEY FOR OPENAI (ask GPT)"}`
 
-**client_secret.json Нужно скачать в личном кабинете google:** *https://console.cloud.google.com/apis/credentials*
+**`client_secret.json`** can be downloaded from your Google account at: *https://console.cloud.google.com/apis/credentials*
 
-## Как использвать:
-1. Создайте папку проекта и положите туда файл prompts.xlsx с запросами для AI 
-2. Запускаете программу  
-3. Вводите запрашиваемые данные
-4. После создания изображений проверьте результат и внесите в папку проекта музыку (mp3) и подписи (captions.xlsx), если не сделали это вначале
-5. Тыкаете enter 
-6. Видео создаётся
-7. Проверяете видео и тыкаете enter
-8. Видео публикается
-
+## How to Use:
+1. Create a project folder and place the file `prompts.xlsx` with the requests for AI in it.
+2. Run the program.
+3. Enter the requested data.
+4. After creating the images, check the result and add music (mp3) and captions (captions.xlsx) to the project folder if you haven't done so initially.
+5. Press enter.
+6. The video is created.
+7. Check the video and press enter.
+8. The video is published.
